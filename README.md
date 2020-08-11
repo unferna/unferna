@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on web projects that include trending technologies
 - 💬 Ask me about: Web or iOS Development
 - 📫 How to reach me: florezf97@gmail.com
-- 😄 Pronouns: *he/him/his*
+- 😄 Pronouns: *he/him*
 - ⚡ Fun fact: I don't like pizza, but I can't refuse it :)
 
 ### Languages and tools
